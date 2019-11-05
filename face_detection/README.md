@@ -1,2 +1,3 @@
-# Omar
-a project for this year! Omar, it's an application that uses a machine-learning algorithm in order to know the behavior and the feeling of the actor beside him. this project can be used in many fields like in an interview...
+### Face_Detection
+
+This is a face detection code using harr_cascade file
