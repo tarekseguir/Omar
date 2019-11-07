@@ -1,5 +1,5 @@
 ### Speech To Text
-just launch these two command :
-    - <b>pip install Pyaudio</b>
-    - <b>pip install SpeechRecognition</b>
+just launch these two command :<br>
+    - <b>pip install Pyaudio</b><br>
+    - <b>pip install SpeechRecognition</b><br>
     ^_^
